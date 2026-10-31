@@ -1,5 +1,7 @@
 # DeepSeen TikTok卖家 Skills
 
+简体中文 | [English](README.en.md)
+
 作者：祥子｜跨境无疆&DeepSeen AI创始人
 
 产品品牌：DeepSeen
