@@ -4,7 +4,7 @@ description: 分析用户提供的电商广告CSV或XLSX报表，核对消耗、
 license: MIT
 compatibility: Python 3.10+，仅标准库；无需网络或DeepSeen账号。
 metadata:
-  author: "祥子｜跨境无疆创始人"
+  author: "祥子｜跨境无疆&DeepSeen AI创始人"
   version: "1.0.0"
 ---
 

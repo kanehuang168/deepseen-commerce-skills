@@ -4,7 +4,7 @@ description: 对实际生成的视频或图片做商品与交付检查；视频�
 license: MIT
 compatibility: 视频技术检查需要Python 3.10+及PATH中的ffprobe、ffmpeg；语义审核需要真实视听能力或可靠人工观察。
 metadata:
-  author: "祥子｜跨境无疆创始人"
+  author: "祥子｜跨境无疆&DeepSeen AI创始人"
   version: "1.0.0"
 ---
 

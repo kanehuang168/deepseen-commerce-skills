@@ -4,7 +4,7 @@ description: 根据用户提供的商品事实与目标，整理带货脚本和�
 license: MIT
 compatibility: 需要可处理文字的宿主智能体；没有专用DeepSeen工具也能交付文字方案。
 metadata:
-  author: "祥子｜跨境无疆创始人"
+  author: "祥子｜跨境无疆&DeepSeen AI创始人"
   version: "1.0.0"
 ---
 

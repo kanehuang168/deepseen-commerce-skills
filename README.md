@@ -1,12 +1,36 @@
-# DeepSeen 电商实用 Skills
+# DeepSeen TikTok卖家 Skills
 
-作者：祥子｜跨境无疆创始人
+作者：祥子｜跨境无疆&DeepSeen AI创始人
 
 产品品牌：DeepSeen
 
-把广告报表变成可核查的观察，把商品原稿变成可执行分镜，把成片检查变成有证据的判断。
+当前主要面向TikTok跨境卖家：发现机会、验证商品、制作带货内容，并用实际投放结果复盘。每个环节可独立使用，不强制跑完整套流程。
 
-## 首发范围
+## 三个专题入口，四个独立Skill
+
+| 产品入口 | 对应Skill | 从哪里开始 |
+|---|---|---|
+| [DeepSeen 选品参谋](https://github.com/kanehuang168/deepseen-product-advisor) | 选品参谋：商机探测＋商品验证合一 | 没有商品找方向；已有商品直接验证 |
+| [DeepSeen 带货创作](https://github.com/kanehuang168/deepseen-commerce-creative) | 剧本导演、成品质检，各自独立 | 确认商品事实与原稿后规划，取得成片再质检 |
+| [DeepSeen 投放诊断](https://github.com/kanehuang168/deepseen-ad-diagnosis) | 投流报表诊断与复盘 | 读取自有报表，不混广告归因成交与店铺总成交 |
+
+正式名称保持简洁；“面向TikTok跨境卖家”放在描述、示例和搜索关键词里。选品参谋的两个模式按需选择，不捆绑运行或重复买数据。
+
+实际链路：选品参谋 → 剧本导演 → 实际制作 → 成品质检 → 实际投放 → 投放诊断。没有成片或投放数据时明确停在待输入，不能把方案当出片、报表示例当真实销售。详见[同一商品的交接示例](examples/workflow.md)。
+
+## 独立方法系列
+
+| 产品入口 | 适合解决的问题 |
+|---|---|
+| [DeepSeen 项目管理](https://github.com/kanehuang168/deepseen-project-manager) | 多步骤工作推进、交接、中断恢复和证据验收 |
+| [DeepSeen 深知灼见](https://github.com/kanehuang168/deepseen-shenzhizhuojian) | 复杂决策、反复故障、竞争解释与可逆计划 |
+| [DeepSeen 吸星大法](https://github.com/kanehuang168/deepseen-xixing) | 来源方法提炼、差量试用、候选与交付去向；含仓颉方法适配 |
+
+方法系列不限定行业，也不要求电商任务必须经过三个额外步骤。每个入口独立安装，不包含DeepSeen私有控制面、客户案例或隐含费用授权。
+
+## 原有安装兼容
+
+本仓库保留原有三个入口，现有安装链接不失效；后续维护以对应专题仓库为主。初次安装建议选择上面的专题入口，不同时安装相同名称的旧版与新版；迁移时在客户端核对Skill路径和版本，再替换旧版，勿直接删除其他技能。
 
 | 技能 | 输入 | 能直接交付什么 |
 |---|---|---|
@@ -31,7 +55,7 @@ python -X utf8 -m unittest discover -s tests -v
 
 ## 在智能体中使用
 
-可通过Skills CLI选择安装这三个入口：
+原有兼容安装命令仍可选择三个旧入口：
 
 ```sh
 npx skills add kanehuang168/deepseen-commerce-skills
