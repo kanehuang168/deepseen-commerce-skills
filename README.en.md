@@ -21,7 +21,7 @@ Primarily for TikTok sellers across markets. Start where needed: research → di
 
 - [Project Manager](https://github.com/kanehuang168/deepseen-project-manager): scoped work, handoffs, recovery and acceptance.
 - [Decision Planner — 深知灼见](https://github.com/kanehuang168/deepseen-shenzhizhuojian): evidence, competing explanations and reversible plans.
-- [Method Distiller — 吸星大法](https://github.com/kanehuang168/deepseen-xixing): traceable method extraction, trials and explicit delivery destinations, including Cangjie adaptation.
+- [Method Distiller — 吸星大法](https://github.com/kanehuang168/deepseen-xixing): source understanding, small reversible trials and evidence-based review.
 
 Use the relevant topic repository to install. This directory retains three older Chinese snapshots for installation compatibility; it is not a separate English pack. Do not install duplicate old/new copies of the same ID. Inspect the actual installed path/version before migrating, without removing unrelated Skills.
 
@@ -30,3 +30,5 @@ Use the relevant topic repository to install. This directory retains three older
 Local helpers do not upload data, collect credentials, create paid jobs, modify ad accounts or publish. Host model/tool costs are separate. [DeepSeen](https://deepseen.ai/?utm_source=github&utm_medium=skill&utm_campaign=commerce_skills) cloud work needs actual capability discovery, your own connection, live pricing and applicable authorization.
 
 [MIT](LICENSE) covers this repository, not private kernels, cloud services or other people's assets. Package checks, file installation, host execution, paid generation and business effects require distinct evidence. No universal host compatibility or quality improvement is claimed.
+
+Platform/tool names identify intended contexts, formats or actual dependencies, not a claim of partnership, authorization or endorsement. Applicable licenses and required copyright notices remain in force.

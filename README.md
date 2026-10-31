@@ -26,7 +26,7 @@
 |---|---|
 | [DeepSeen 项目管理](https://github.com/kanehuang168/deepseen-project-manager) | 多步骤工作推进、交接、中断恢复和证据验收 |
 | [DeepSeen 深知灼见](https://github.com/kanehuang168/deepseen-shenzhizhuojian) | 复杂决策、反复故障、竞争解释与可逆计划 |
-| [DeepSeen 吸星大法](https://github.com/kanehuang168/deepseen-xixing) | 来源方法提炼、差量试用、候选与交付去向；含仓颉方法适配 |
+| [DeepSeen 吸星大法](https://github.com/kanehuang168/deepseen-xixing) | 资料理解、小范围试用和证据回归 |
 
 方法系列不限定行业，也不要求电商任务必须经过三个额外步骤。每个入口独立安装，不包含DeepSeen私有控制面、客户案例或隐含费用授权。
 
@@ -82,3 +82,5 @@ npx skills add kanehuang168/deepseen-commerce-skills --list
 本仓库采用[MIT许可证](LICENSE)，允许修改、分发及商业使用，须保留版权和许可声明。DeepSeen云端服务及未收录的私有内核不在此许可范围内。没有打包客户素材、内部运行日志、生产配置或私有Git历史。
 
 不使用真实客户结果作为示例；外部来源须保留署名和适用许可。完整能力边界见各技能说明。
+
+平台和工具名称仅说明适用场景、格式或实际依赖，不表示合作、授权或背书；适用许可和必要版权声明仍须遵守。
