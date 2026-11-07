@@ -27,6 +27,7 @@
 | [DeepSeen 项目管理](https://github.com/kanehuang168/deepseen-project-manager) | 多步骤工作推进、交接、中断恢复和证据验收 |
 | [DeepSeen 深知灼见](https://github.com/kanehuang168/deepseen-shenzhizhuojian) | 复杂决策、反复故障、竞争解释与可逆计划 |
 | [DeepSeen 吸星大法](https://github.com/kanehuang168/deepseen-xixing) | 资料理解、小范围试用和证据回归 |
+| [DeepSeen 百炼](https://github.com/kanehuang168/deepseen-bailian) | 搜索、整合或通过访谈提炼经验，创建并试用 Skill |
 
 方法系列不限定行业，也不要求电商任务必须经过三个额外步骤。每个入口独立安装，不包含DeepSeen私有控制面、客户案例或隐含费用授权。
 

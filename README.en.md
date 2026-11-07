@@ -22,6 +22,7 @@ Primarily for TikTok sellers across markets. Start where needed: research → di
 - [Project Manager](https://github.com/kanehuang168/deepseen-project-manager): scoped work, handoffs, recovery and acceptance.
 - [Decision Planner — 深知灼见](https://github.com/kanehuang168/deepseen-shenzhizhuojian): evidence, competing explanations and reversible plans.
 - [Method Distiller — 吸星大法](https://github.com/kanehuang168/deepseen-xixing): source understanding, small reversible trials and evidence-based review.
+- [Bailian — 百炼](https://github.com/kanehuang168/deepseen-bailian): discover, combine, or distill experience into reusable skills and test them.
 
 Use the relevant topic repository to install. This directory retains three older Chinese snapshots for installation compatibility; it is not a separate English pack. Do not install duplicate old/new copies of the same ID. Inspect the actual installed path/version before migrating, without removing unrelated Skills.
 
