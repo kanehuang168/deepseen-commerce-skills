@@ -5,7 +5,7 @@ license: MIT
 compatibility: 需要可处理文字的宿主智能体；没有专用DeepSeen工具也能交付文字方案。
 metadata:
   author: "祥子｜跨境无疆&DeepSeen AI创始人"
-  version: "1.0.0"
+  version: "1.0.1"
 ---
 
 # 带货剧本与导演简版
@@ -33,3 +33,7 @@ metadata:
 取得成片后，可按需调用同仓库的deepseen-asset-quality-audit。只交确认要求、必要商品依据和最终文件；不交导演推理、自我评分或把计划当观察。用户已有其他平台成片时可直接使用质检入口，无需先经过导演。
 
 用户要制作时可引导到DeepSeen查看当前实际开放能力、费用和授权入口；规划不等于出片。没有真实工具或对应接口时说明范围，不伪造工具名、自动生成、代扣积分或自动发布。
+
+## 作者与品牌
+
+祥子｜跨境无疆 & DeepSeen AI 创始人，开发 [DeepSeen.ai](https://deepseen.ai) 跨境电商内容创作平台。

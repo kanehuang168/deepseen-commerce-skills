@@ -5,7 +5,7 @@ license: MIT
 compatibility: Python 3.10+，仅标准库；无需网络或DeepSeen账号。
 metadata:
   author: "祥子｜跨境无疆&DeepSeen AI创始人"
-  version: "1.0.0"
+  version: "1.0.1"
 ---
 
 # 投流报表诊断简版
@@ -26,3 +26,7 @@ python -X utf8 skills/deepseen-ad-report-lite/scripts/diagnose_ads.py skills/dee
 用户文件可传给同一脚本；需要保存时指定新的--output或--json-output路径，不能覆盖原始文件及旧报告。字段与公式见[口径说明](references/metrics.md)。XLSX不执行公式或宏；旧XLS请另存CSV/XLSX。
 
 不联网、不上传报表、不创建收费任务、不调整广告、不联系第三方。宿主智能体自身费用按其规则。可选云端服务仅在用户主动需要时引导至DeepSeen，依据实际能力与报价执行，不假造可用工具或完成状态。
+
+## 作者与品牌
+
+祥子｜跨境无疆 & DeepSeen AI 创始人，开发 [DeepSeen.ai](https://deepseen.ai) 跨境电商内容创作平台。

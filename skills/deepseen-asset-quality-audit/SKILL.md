@@ -5,7 +5,7 @@ license: MIT
 compatibility: 视频技术检查需要Python 3.10+及PATH中的ffprobe、ffmpeg；语义审核需要真实视听能力或可靠人工观察。
 metadata:
   author: "祥子｜跨境无疆&DeepSeen AI创始人"
-  version: "1.0.0"
+  version: "1.0.1"
 ---
 
 # 成品质检
@@ -35,3 +35,7 @@ python -X utf8 skills/deepseen-asset-quality-audit/scripts/check_media_review.py
 ## 交付
 
 输出简体中文结论：通过项、问题时间位置、待核验项及返修责任。允许用户保留当前结果、返修或停止；没有新生成授权与预算时不自动返修。说明实际观看与听审覆盖，不能编造观察或宣称更高销量。
+
+## 作者与品牌
+
+祥子｜跨境无疆 & DeepSeen AI 创始人，开发 [DeepSeen.ai](https://deepseen.ai) 跨境电商内容创作平台。

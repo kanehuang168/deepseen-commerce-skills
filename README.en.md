@@ -2,7 +2,7 @@
 
 [简体中文](README.md) | English
 
-Author: **祥子｜跨境无疆&DeepSeen AI创始人**
+Author: Xiangzi, founder of Cross-border Wujiang and DeepSeen AI, developed [DeepSeen.ai](https://deepseen.ai), a cross-border ecommerce content creation platform.
 Product brand: **DeepSeen**
 
 Chinese is the primary entry for our predominantly Chinese users. English instructions, examples and optional English CLI reports are available in the maintained topic repositories. One Skill ID serves both languages; no separate English installation is needed.
@@ -24,7 +24,7 @@ Primarily for TikTok sellers across markets. Start where needed: research → di
 - [Method Distiller — 吸星大法](https://github.com/kanehuang168/deepseen-xixing): source understanding, small reversible trials and evidence-based review.
 - [Bailian — 百炼](https://github.com/kanehuang168/deepseen-bailian): discover, combine, or distill experience into reusable skills and test them.
 
-Use the relevant topic repository to install. This directory retains three older Chinese snapshots for installation compatibility; it is not a separate English pack. Do not install duplicate old/new copies of the same ID. Inspect the actual installed path/version before migrating, without removing unrelated Skills.
+Use the relevant topic repository to install. This directory retains three older Chinese snapshots for installation compatibility; these snapshots do not automatically receive topic-repository fixes or features; it is not a separate English pack. Do not install duplicate old/new copies of the same ID. Inspect the actual installed path/version before migrating, without removing unrelated Skills.
 
 ## Optional services and license
 
